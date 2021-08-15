@@ -10,3 +10,5 @@ _ccj_
 charlie-cloud-joy/charlie-cloud-joy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![vlang](http://vlang.io/img/v-logo.png)
